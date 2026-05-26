@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer accent scientific ring -->
+    <path
+        android:pathData="M 54 12 A 42 42 0 1 0 54 96 A 42 42 0 1 0 54 12 Z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#2000E5FF"
+        android:fillColor="#00000000"/>
+
+    <!-- Axis coordinates structure -->
+    <!-- X Axis -->
+    <path
+        android:pathData="M 24 54 L 84 54"
+        android:strokeWidth="2.5"
+        android:strokeColor="#A0FFFFFF"
+        android:strokeLineCap="round"/>
+    
+    <!-- Y Axis -->
+    <path
+        android:pathData="M 54 24 L 54 84"
+        android:strokeWidth="2.5"
+        android:strokeColor="#A0FFFFFF"
+        android:strokeLineCap="round"/>
+
+    <!-- Arrow Heads for axes -->
+    <path
+        android:pathData="M 51 27 L 54 24 L 57 27"
+        android:strokeWidth="2"
+        android:strokeColor="#A0FFFFFF"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"/>
+    <path
+        android:pathData="M 81 51 L 84 54 L 81 57"
+        android:strokeWidth="2"
+        android:strokeColor="#A0FFFFFF"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"/>
+
+    <!-- Glowing Sine-wave plotting line -->
+    <!-- Curving up and down across the axes -->
+    <path
+        android:pathData="M 26 68 C 36 28, 44 28, 54 54 C 64 80, 72 80, 82 40"
+        android:strokeWidth="5"
+        android:strokeColor="#00E5FF"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"/>
+
+    <!-- Tiny math symbols decorative floaters -->
+    <path
+        android:pathData="M 32 30 H 38 M 35 27 V 33"
+        android:strokeWidth="2"
+        android:strokeColor="#A000E5FF"
+        android:strokeLineCap="round"/>
+    
+    <path
+        android:pathData="M 72 74 H 78 M 72 78 H 78"
+        android:strokeWidth="2"
+        android:strokeColor="#A000E5FF"
+        android:strokeLineCap="round"/>
+</vector>

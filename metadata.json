@@ -1,0 +1,6 @@
+{
+  "name": "Matrix Calc",
+  "description": "Una calculadora científica multifuncional con un trazador de gráficos interactivo y conversiones de unidades avanzada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
